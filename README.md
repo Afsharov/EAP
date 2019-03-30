@@ -28,7 +28,7 @@ We use [Github](https://github.com/) for versioning. For the versions available,
 ## Authors
 
 * **Nesaretnam Barr** - [nesaretnambarr](https://github.com/nesaretnambarr) - *Idea*
-* **Suheng Shi** - [suhengshi](https://github.com/suhengshi) - *Dirty operations specialist*
+* **Suheng Shi** - [suhengshi](https://github.com/suhengshi) - *Lead designer*
 * **Masud Afschar** - [Afsharov](https://iteragit.iteratec.de/mafschar) - *Developer*
 * **Li Chun Yu** - [samzonli](https://github.com/samzonli) - *FHIR fighter*
 * **Winner Ng** - [winnerng](https://github.com/winnerng) - *Chief editor*
