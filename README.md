@@ -1,6 +1,6 @@
 # EAP (Eliminate Alcohol in Pregnancy)
 
-This application is intended for personalized screening, learning, and patient management in eliminating or reducing alcohol intake during pregnancy.
+This application is intended for personalized screening, education and management of women at risk of alcohol use during pregnancy. It aims to support women to eliminate or reduce their intake during pregnancy. All women will receive a link to the mobile application upon making an appointment with the midwife. Upon first registration, they will perform a validated alcohol use disorder identification test (AUDIT) to assess their alcohol intake. Based on their AUDIT score, a series of interventions will be recommended to the patient prior to the appointment with the midwife.
 
 ## Getting Started
 
