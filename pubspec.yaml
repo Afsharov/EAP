@@ -45,6 +45,12 @@ flutter:
   assets:
     - images/eap.jpg
     - images/baby.png
+    - images/brain.png
+    - images/maternity.png
+    - images/pregnant.png
+    - images/sandglass.png
+    - images/speech-bubble.png
+    - images/wine.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.io/assets-and-images/#resolution-aware.
