@@ -39,4 +39,4 @@ This project is licensed under the BSD 3-Clause License - see the [LICENSE](LICE
 
 ## Acknowledgments
 
-* Many thanks to [Karolinska Institutet](https://www.ki.se) - for organizing the Joint Master's Programme in Health Informatics, allowing us te meet and form this group project.
+* Many thanks to [Karolinska Institutet](https://www.ki.se) - for organizing the Joint Master's Programme in Health Informatics, allowing us to meet and form this group project.
