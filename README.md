@@ -30,7 +30,7 @@ We use [Github](https://github.com/) for versioning. For the versions available,
 * **Nesaretnam Barr** - *Idea*
 * **Suheng Shi** - *Idea*
 * **Masud Afschar**
-* **Samzon**
+* **Li Chun Yu**
 * **Winner Ng**
 
 ## License
