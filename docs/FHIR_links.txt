@@ -1,0 +1,23 @@
+Patient Resource
+http://hapi.fhir.org/baseDstu3/Patient/1706365/_history/1
+
+Practitioner Resource
+http://hapi.fhir.org/baseDstu3/Practitioner/1706445/_history/1
+
+Audit Score Resource
+http://hapi.fhir.org/baseDstu3/Observation/1706702/_history/1
+
+Diagnosis Resource
+http://hapi.fhir.org/baseDstu3/Condition/1706783/_history/1
+
+Appointment Resource
+http://hapi.fhir.org/baseDstu3/Appointment/1706951/_history/1
+
+Parity Resource
+http://hapi.fhir.org/baseDstu3/Observation/1706446/_history/1
+
+Gravida Resource
+http://hapi.fhir.org/baseDstu3/Observation/1706449/_history/1
+
+Gestation week Resource
+http://hapi.fhir.org/baseDstu3/Observation/1706450/_history/1
