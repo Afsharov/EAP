@@ -10,16 +10,18 @@ These instructions will get you a copy of the project up and running on your sma
 
 This application is meant to run on a smartphone operated by iOS or Android:
 
-* [iOS](https://www.apple.com/lae/ios/ios-12/) iOS 12 and up - the operating system on the iPhone
-* [Android](https://www.android.com/) 4.4 and up - the operating system on the Android phone
+* [iOS 12](https://www.apple.com/lae/ios/ios-12/) or above - the operating system on the iPhone
+* [Android 4.4](https://www.android.com/) or above - the operating system on the Android phone
 
 ### Installing
 
-* install the program from [this repository](https://github.com/Afsharov/EAP)
+* Clone this project from [this repository](https://github.com/Afsharov/EAP) and deploy either on [iOS](https://www.apple.com/lae/ios/ios-12/) or [Android](https://www.android.com/).
 
 ## Built With
 
 * [Flutter](https://flutter.dev/) - allows you to build beautiful apps on iOS and Android from a single codebase
+* [Dart](https://www.dartlang.org/) - general-purpose programming language introduced by Google
+* [Gradle](https://gradle.org/) - build automation system
 
 ## Versioning
 
